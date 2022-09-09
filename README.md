@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MatteoGranziera
 - 👀 I’m interested in cutting-edge technologies
-- 🌱 I’m currently learning Self-Driving cars technologies (Udacity)
+- 🌳 I'm currently working at [Treedom](https://www.treedom.net/it/)
